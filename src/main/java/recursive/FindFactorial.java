@@ -1,4 +1,4 @@
-package dsa.playground.recursive;
+package recursive;
 
 public class FindFactorial {
     public static int findRecursively(int n) {

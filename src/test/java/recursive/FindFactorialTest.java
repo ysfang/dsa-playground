@@ -1,4 +1,4 @@
-package dsa.playground.recursive;
+package recursive;
 
 import static org.junit.Assert.*;
 
